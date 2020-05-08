@@ -4,21 +4,19 @@
 
 1. If this file is under Question 1 folder, then create a PDF consisting of the JPEG images of the pages for Question 1.
 
-* ### Note:
+* #### Note:
   * Total size of the PDF should not exceed more than 1MB.
   * If PDF Size exceeds 1MB, Go to the following Link:
     * [PDF Compressor](www.ilovepdf.com/compress_pdf) ;
   * Then compress your PDF to make it under 1MB.
 
-2. Your PDF name should be SP2020_CSE373_Final_Q1_1234567.pdf where 1234567 is your 7 digit student ID, and this is under Question 1 folder.
+2. Your PDF name should be _**SP2020_CSE373_Final_Q1_1234567.pdf**_ where 1234567 is your 7 digit student ID, and this is under Question 1 folder.
 
-If your 7 digit student ID is 1121341 and this is under Question 3 folder, then the PDF name should be SP2020_CSE373_Final_Q3_1121341.pdf
+If your 7 digit student ID is 1121341 and this is under Question 3 folder, then the PDF name should be _**SP2020_CSE373_Final_Q3_1121341.pdf**_
 
 ## Coding Question Instructions:
 
-1. Create one single Java file named SP2020_CSE373_Final_Q1_1234567.java
-
-where 1234567 is your 7 digit student ID, and this is under Question 1 folder.
+1. Create one single Java file named SP2020_CSE373_Final_Q1_1234567.java where 1234567 is your 7 digit student ID, and this is under Question 1 folder.
 
 _**SP2020_CSE373_Final_Q1_1234567**_ should be your public class name if your file name is _**SP2020_CSE373_Final_Q1_1234567.java**_ .
 
