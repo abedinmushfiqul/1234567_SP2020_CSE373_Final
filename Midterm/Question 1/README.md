@@ -23,6 +23,7 @@ SP2020_CSE373_Final_Q1_1234567 should be your public class name if your file nam
 for example, the following is a structure for a possible 1234567_SP2020_CSE373_Final_Q1.java file.
 
 #file: SP2020_CSE373_Final_Q1_1234567.java
+```
 //Only this class can be declared as public
 public class SP2020_CSE373_Final_Q1_1234567 {
 
@@ -49,7 +50,7 @@ class A{
 class B{
 
 }
-
+```
 #End file SP2020_CSE373_Final_Q1_1234567.java
 
 3) Only commit the .java file, and jpeg (each jpeg under 500KB) to
@@ -62,4 +63,4 @@ b) Code compiles and runs : 25%
 c) Correct output and formats: 30%
 
 #Plagiarism Policy
-Any proved instance of plagiarism will result in disciplinary action in accordance with NSU policy. 
+Any proved instance of plagiarism will result in disciplinary action in accordance with NSU policy.
