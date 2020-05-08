@@ -55,7 +55,7 @@ class B{
 //End file SP2020_CSE373_Final_Q1_1234567.java
 ```
 
-3) Only commit the .java file, and jpeg for outputs. Each .jpeg should be under 400KB. 
+3) Only commit the .java file, and jpeg for outputs. Each .jpeg should be under 400KB.
 
 4) After ever edits or changes to this file (adding a method, adding a functionality, this file should be committed to the repository).
 
