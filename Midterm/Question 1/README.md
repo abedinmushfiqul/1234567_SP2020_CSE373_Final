@@ -7,7 +7,7 @@
 * #### Note:
   * Total size of the PDF should not exceed more than 1MB.
   * If PDF Size exceeds 1MB, Go to the following Link:
-    * [PDF Compressor](www.ilovepdf.com/compress_pdf) ;
+    * [PDF Compressor](https://www.ilovepdf.com/compress_pdf) ;
   * Then compress your PDF to make it under 1MB.
 
 2. Your PDF name should be _**SP2020_CSE373_Final_Q1_1234567.pdf**_ where 1234567 is your 7 digit student ID, and this is under Question 1 folder.
