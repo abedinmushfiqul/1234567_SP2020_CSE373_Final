@@ -12,7 +12,7 @@
 
 5. Start working on each question inside each designated folders. Each small updates must be committed locally to the repository.
 
-> ###Note
+> ### Note
 >
 >  * If you add a method, you should add a commit.
 >  * Commits should be done on regular interval.
@@ -25,7 +25,7 @@
 
 1. If this file is under Question 1 folder, then create a PDF consisting of the JPEG images of the pages for Question 1.
 
->* #### Note:
+> ### Note:
 >  * Total size of the PDF should not exceed more than 1MB.
 >  * If PDF Size exceeds 1MB, Go to the following Link:
 >    * [PDF Compressor](https://www.ilovepdf.com/compress_pdf) ;
