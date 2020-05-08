@@ -8,25 +8,18 @@
 
 3. Clone this repository in your Computer and designate the repository as private.
 
-4. Start working on each question inside each designated folders. Each small updates must be committed locally to the repository.
+4. Commits to this repository must be made using **Github for Desktop** or **SourceTree** software.
+
+5. Start working on each question inside each designated folders. Each small updates must be committed locally to the repository.
 
 > ###Note
 >
-> 1. If you add a method, you should add a commit.
->
-> 2. Commits should be done on regular interval.
->
-> 3. It is not necessary to push commits regularly to remote repository.
->
-> 4. If you are having trouble understanding how git commits and push work, contact your instructor for a live demo. 
+>  * If you add a method, you should add a commit.
+>  * Commits should be done on regular interval.
+>  * It is not necessary to push commits regularly to remote repository.
+>  * If you are having trouble understanding how git commits and push work, contact your instructor for a live demo.
+>  * Tutorial on how to commit using **Github for Desktop** can be found using the following link: [Using Github for Desktop](https://www.youtube.com/watch?v=dL6t3jAA05w).
 
-2. Commits to this repository must be made using **Github for Desktop** or **SourceTree** software.
-
-2. Tutorial on how to commit using **Github for Desktop** can be found using the following link: [Using Github for Desktop](https://www.youtube.com/watch?v=dL6t3jAA05w).
-
-3.
-
-4.
 
 ## _Handwritten Question instructions:_
 
