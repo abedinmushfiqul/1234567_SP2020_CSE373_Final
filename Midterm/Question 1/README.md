@@ -2,24 +2,24 @@
 
 ## _Handwritten Question instructions:_
 
-1) If this file is under Question 1 folder, then create a PDF consisting of the JPEG images of the pages for Question 1.
+1. If this file is under Question 1 folder, then create a PDF consisting of the JPEG images of the pages for Question 1.
 
 ### Note:
 > Total size of the PDF should not exceed more than 1MB. If PDF Size exceeds 1MB, Go to the following Link: [PDF Compressor](https://www.ilovepdf.com/compress_pdf) ; and then compress your PDF to make it under 1MB.
 
-2) Your PDF name should be SP2020_CSE373_Final_Q1_1234567.pdf where 1234567 is your 7 digit student ID, and this is under Question 1 folder.
+2. Your PDF name should be SP2020_CSE373_Final_Q1_1234567.pdf where 1234567 is your 7 digit student ID, and this is under Question 1 folder.
 
 If your 7 digit student ID is 1121341 and this is under Question 3 folder, then the PDF name should be SP2020_CSE373_Final_Q3_1121341.pdf
 
 ## Coding Question Instructions:
 
-1) Create one single Java file named SP2020_CSE373_Final_Q1_1234567.java
+1. Create one single Java file named SP2020_CSE373_Final_Q1_1234567.java
 
 where 1234567 is your 7 digit student ID, and this is under Question 1 folder.
 
 _**SP2020_CSE373_Final_Q1_1234567**_ should be your public class name if your file name is _**SP2020_CSE373_Final_Q1_1234567.java**_ .
 
-2) If your code requires multiple classes, remember only one class can be a public class in a .java file.
+2. If your code requires multiple classes, remember only one class can be a public class in a .java file.
 
 for example, the following is a structure for a possible _**SP2020_CSE373_Final_Q1_1234567.java**_ file.
 
@@ -56,16 +56,16 @@ class B{
 //End file SP2020_CSE373_Final_Q1_1234567.java
 ```
 
-3) Only commit the .java file, and jpeg for outputs.
+3. Only commit the .java file, and jpeg for outputs.
 > Each .jpeg should be under 400KB. If there are multiple files, name them as following:
 Final_1234567_Q1_Output1.jpeg
 Final_1234567_Q1_Output2.jpeg
 Final_1234567_Q1_Output3.jpeg
 
 
-5) After ever edits or changes to this file (adding a method, adding a functionality, this file should be committed to the repository).
+4. After ever edits or changes to this file (adding a method, adding a functionality, this file should be committed to the repository).
 
-6) Final grading for code questions will be the following:
+5. Final grading for code questions will be the following:
 > a) Git Commit history for questions: 45%
 > b) Code compiles and runs : 25%
 > c) Correct output and formats: 30%
