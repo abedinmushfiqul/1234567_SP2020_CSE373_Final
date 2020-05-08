@@ -1,4 +1,4 @@
-# Designated space for answering Question 1 for Final.
+# Designated space for answering Question 1 for Midterm.
 
 #Handwritten Question instructions:
 
