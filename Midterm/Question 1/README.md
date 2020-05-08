@@ -55,14 +55,19 @@ class B{
 //End file SP2020_CSE373_Final_Q1_1234567.java
 ```
 
-3) Only commit the .java file, and jpeg for outputs. Each .jpeg should be under 400KB.
+3) Only commit the .java file, and jpeg for outputs.
+> Each .jpeg should be under 400KB. If there are multiple files, name them as following:
+Final_1234567_Q1_Output1.jpeg
+Final_1234567_Q1_Output2.jpeg
+Final_1234567_Q1_Output3.jpeg
 
-4) After ever edits or changes to this file (adding a method, adding a functionality, this file should be committed to the repository).
 
-5) Final grading for code questions will be the following:
-a) Git Commit history for questions: 45%
-b) Code compiles and runs : 25%
-c) Correct output and formats: 30%
+5) After ever edits or changes to this file (adding a method, adding a functionality, this file should be committed to the repository).
+
+6) Final grading for code questions will be the following:
+> a) Git Commit history for questions: 45%
+> b) Code compiles and runs : 25%
+> c) Correct output and formats: 30%
 
 ## Plagiarism Policy
-Any proved instance of plagiarism will result in disciplinary action in accordance with NSU policy.
+_Any proved instance of plagiarism will result in disciplinary action in accordance with NSU policy._
