@@ -1,4 +1,4 @@
-# **This is a sample repository for submitting Spring 2020 CSE373 final scripts.**
+# **Sample repository for Spring 2020 CSE373 final scripts.**
 
 ## Commit policy
 
